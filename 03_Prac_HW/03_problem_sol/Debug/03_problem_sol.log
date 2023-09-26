@@ -1,0 +1,6 @@
+﻿  03_problem_sol_main.c
+F:\Dongguk\DataStructure\03_Prac_HW\03_problem_sol\03_problem_sol_main.c(36,16): warning C4133: 'function': incompatible types - from 'student *' to 'const students *'
+F:\Dongguk\DataStructure\03_Prac_HW\03_problem_sol\03_problem_sol_main.c(45,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Dongguk\DataStructure\03_Prac_HW\03_problem_sol\03_problem_sol_main.c(49,42): warning C4028: formal parameter 1 different from declaration
+F:\Dongguk\DataStructure\03_Prac_HW\03_problem_sol\03_problem_sol_main.c(54,138): warning C4090: 'function': different 'const' qualifiers
+  03_problem_sol.vcxproj -> F:\Dongguk\DataStructure\03_Prac_HW\Debug\03_problem_sol.exe
