@@ -1,0 +1,3 @@
+﻿  01_problem_sol_main.cpp
+G:\Dongguk\DataStructure\04_Prac_HW\01_problem_sol\01_problem_sol_main.cpp(35): warning C4715: 'pop': not all control paths return a value
+  01_problem_sol.vcxproj -> G:\Dongguk\DataStructure\04_Prac_HW\Debug\01_problem_sol.exe
